@@ -6,7 +6,7 @@
   
   boolean jegElskerJava = true; // boolean er en datatype som kun indeholder true & false values
   
-  float minutesInADay = 60*24; // float bruges til decimalVærdier
+  int minutesInADay = 60*24; // float bruges til decimalVærdier
   
   float sleepingTime = 22.12; 
   
